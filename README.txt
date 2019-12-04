@@ -1,7 +1,6 @@
 === Post List with Read More ===
 
 Contributors: ramizmanked
-Donate link: https://www.paypal.me/ramizmanked
 Tags: post list with load more, lazy loading posts, ajax posts, posts with load more, load more posts, infinite posts, post list, post with read more
 Requires at least: 4.5.0
 Tested up to: 5.3
